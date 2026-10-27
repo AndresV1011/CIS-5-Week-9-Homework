@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain each function, what goes in, and what comes back. Then show choice 1, choice 2, and quit.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1lGrWIhj6Hjjpkkry2WXfR6-ebvpMobgl/view?usp=sharing
 
 
 ## What to build
@@ -41,8 +41,15 @@ High: 100
 1) Average  2) High  3) Quit
 Choice: 3
 ```
-
 `cout` prints `85` for the value `85.0`.
+
+The Menu takes the user's choice as an input and outputs an action, and is repeated until you press 3
+choice 1: type one in and it gives you the class average grade
+choice 2: type 2 and it gives you the highest grade in the class
+choice 3: type 3 and it exits you from the menu
+
+
+
 
 ## Starter
 
